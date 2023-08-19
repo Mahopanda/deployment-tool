@@ -30,7 +30,8 @@ python generate_yaml.py -o /path/to/output/directory
 ```
 
 ## 注意事項
-尚未使用kusomize，請自行測試。
+尚未使用kusomize上測試，請自行測試。
+
 尚未在kubernetes上測試，請自行測試。
 
 在進行部署之前，建議首先使用 dry-run 選項進行檢查，確保一切正常。
