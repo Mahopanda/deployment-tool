@@ -1,9 +1,3 @@
-# Kubernetes YAML Generator Repository
-
-這是 `Kubernetes YAML Generator` 的 Git 存儲庫。這個工具旨在簡化 Kubernetes 的 YAML 配置生成過程，讓用戶能夠透過問答形式快速產出所需的配置文件。
-
----
-
 ## Kubernetes YAML Generator
 
 這是一個用於通過問答方式生成 Kubernetes 的 YAML 配置的工具。
